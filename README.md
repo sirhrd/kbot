@@ -10,3 +10,7 @@ Python
 
 git clone
 https://github.com/sirhrd/kbot.git
+
+كلمة المرور للتشغيل:
+
+sss
