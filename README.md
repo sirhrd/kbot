@@ -8,3 +8,5 @@ Python
 
 أمر تثبيت الاداة:
 
+git clone
+https://github.com/sirhrd/kbot.git
